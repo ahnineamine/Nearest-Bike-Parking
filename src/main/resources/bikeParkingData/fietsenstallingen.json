@@ -1,0 +1,1073 @@
+{
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:28992"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79652.9470000006, 458727.410999998 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "BOSSCHESTRAAT 58",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79652.947,
+				"Y" : 458727.411,
+				"COUNTER" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 83403.7239999995, 455776.719999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "ALTINGSTRAAT 3",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 83403.724,
+				"Y" : 455776.72,
+				"COUNTER" : "2"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77614.3990000002, 454755.072000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "BEGONIASTRAAT 246A",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77614.399,
+				"Y" : 454755.072,
+				"COUNTER" : "3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77642.8999999985, 454881.699999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "GOUDSBLOEMLAAN",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77642.9,
+				"Y" : 454881.7,
+				"COUNTER" : "4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81561.1440000013, 454651.296999998 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Amsterdamse Veerkade 30",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81561.144,
+				"Y" : 454651.297,
+				"COUNTER" : "5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 82295.7580000013, 455196.169 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Anna van Buerenstraat 120",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 82295.758,
+				"Y" : 455196.169,
+				"COUNTER" : "6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78287.1730000004, 454962.041999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "ABEELSTRAAT 38",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78287.173,
+				"Y" : 454962.042,
+				"COUNTER" : "7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78376.9409999996, 454848.243000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "ACACIASTRAAT 182",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78376.941,
+				"Y" : 454848.243,
+				"COUNTER" : "8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81188.3189999983, 455006.763999999 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Buitenhof 4",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81188.319,
+				"Y" : 455006.764,
+				"COUNTER" : "9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78182.6499999985, 454799.02 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "EGELANTIERSTRAAT",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78182.65,
+				"Y" : 454799.02,
+				"COUNTER" : "10"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77951.2980000004, 454909.561000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "GOUDENREGENSTRAAT 184",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77951.298,
+				"Y" : 454909.561,
+				"COUNTER" : "11"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78399.9759999998, 455327.298999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "POPULIERSTRAAT 138",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78399.976,
+				"Y" : 455327.299,
+				"COUNTER" : "12"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81290.0529999994, 455833.787 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Denneweg 128",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81290.053,
+				"Y" : 455833.787,
+				"COUNTER" : "13"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78172.6400000006, 454894.899999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VALKENBOSKADE",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78172.64,
+				"Y" : 454894.9,
+				"COUNTER" : "14"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81182.5289999992, 455007.359000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "BUITENHOF 5",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 81182.529,
+				"Y" : 455007.359,
+				"COUNTER" : "15"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81383.7800000012, 454823.318 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "GEDEMPTE GRACHT 26",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 81383.78,
+				"Y" : 454823.318,
+				"COUNTER" : "16"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81568.8770000003, 454743.421 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "KRANESTRAAT 14",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 81568.877,
+				"Y" : 454743.421,
+				"COUNTER" : "17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80493.800999999, 454320.184 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "PRINSEGRACHT 274",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 80493.801,
+				"Y" : 454320.184,
+				"COUNTER" : "18"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80832.4349999987, 454940.868999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "TORENSTRAAT 126",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 80832.435,
+				"Y" : 454940.869,
+				"COUNTER" : "19"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81606.8929999992, 454538.598000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "WAGENSTRAAT 186",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 81606.893,
+				"Y" : 454538.598,
+				"COUNTER" : "20"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80550.5780000016, 453253.313000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Groenteweg 1",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 80550.578,
+				"Y" : 453253.313,
+				"COUNTER" : "21"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81021.7179999985, 454964.960999999 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "grote halstraat 9",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81021.718,
+				"Y" : 454964.961,
+				"COUNTER" : "22"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77718.1719999984, 456495.473000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "PLUVIERSTRAAT 178",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77718.172,
+				"Y" : 456495.473,
+				"COUNTER" : "23"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79616.1220000014, 455289.853999998 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VAN SWIETENSTRAAT 122",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79616.122,
+				"Y" : 455289.854,
+				"COUNTER" : "24"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80247.6959999986, 453648.620000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Herman Costerstraat 258",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 80247.696,
+				"Y" : 453648.62,
+				"COUNTER" : "25"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78875.5879999995, 455270.348000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VOLTASTRAAT 109",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78875.588,
+				"Y" : 455270.348,
+				"COUNTER" : "26"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78301.3770000003, 456530.798999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VAN HOORNESTRAAT 15",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78301.377,
+				"Y" : 456530.799,
+				"COUNTER" : "27"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78632.0960000008, 457165.899 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VISSERSHOF 1",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78632.096,
+				"Y" : 457165.899,
+				"COUNTER" : "28"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78555.2749999985, 454107.787999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "JASMIJNSTRAAT 49",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78555.275,
+				"Y" : 454107.788,
+				"COUNTER" : "29"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80987.8189999983, 454744.123 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "laan 9",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 80987.819,
+				"Y" : 454744.123,
+				"COUNTER" : "30"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78646.4640000016, 451930.239 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Leyweg 914",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 78646.464,
+				"Y" : 451930.239,
+				"COUNTER" : "31"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 75142.6009999998, 454063.427000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "DELTAPLEIN 148",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 75142.601,
+				"Y" : 454063.427,
+				"COUNTER" : "32"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 82435.8370000012, 452681.758000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "DAMASSTRAAT 9A",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 82435.837,
+				"Y" : 452681.758,
+				"COUNTER" : "33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80956.7300000005, 455034.962000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Nobelstraat 2D",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 80956.73,
+				"Y" : 455034.962,
+				"COUNTER" : "34"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78656.6099999994, 452638.491999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VREESWIJKSTRAAT 537",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 78656.61,
+				"Y" : 452638.492,
+				"COUNTER" : "35"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80044.7650000006, 452792.063000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "TROELSTRAKADE 3",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 80044.765,
+				"Y" : 452792.063,
+				"COUNTER" : "36"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79456.5599999987, 458958.920000002 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Palaceplein 1",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 79456.56,
+				"Y" : 458958.92,
+				"COUNTER" : "37"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81541.3900000006, 455205.190000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Plein",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81541.39,
+				"Y" : 455205.19,
+				"COUNTER" : "38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79108.8729999997, 453995.460999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "HEELSUMSTRAAT 34",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79108.873,
+				"Y" : 453995.461,
+				"COUNTER" : "39"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79819.8200000003, 454990.348999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "MARNIXSTRAAT 55A",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79819.82,
+				"Y" : 454990.349,
+				"COUNTER" : "40"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79421.5269999988, 459008.239999998 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "GEVERS DEYNOOTWEG 970",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "is dezelfde als Palaceplein 1",
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79421.527,
+				"Y" : 459008.24,
+				"COUNTER" : "41"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81138.3949999996, 454769.570999999 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Raamstraat 2",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81138.395,
+				"Y" : 454769.571,
+				"COUNTER" : "42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 82091.0100000016, 455260.539999999 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Rijnstraat",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 82091.01,
+				"Y" : 455260.54,
+				"COUNTER" : "43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79016.1900000013, 458146.556000002 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "GONDELSTRAAT 29",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79016.19,
+				"Y" : 458146.556,
+				"COUNTER" : "44"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81572.5080000013, 454892.298 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Spui 68",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81572.508,
+				"Y" : 454892.298,
+				"COUNTER" : "45"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77955.1959999986, 457601.978 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Strandweg 10",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 77955.196,
+				"Y" : 457601.978,
+				"COUNTER" : "46"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78786.9699999988, 458465.960000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Strandweg 14",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 78786.97,
+				"Y" : 458465.96,
+				"COUNTER" : "47"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 0, 0 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "STRANDWEG 189",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : null,
+				"Y" : null,
+				"COUNTER" : "48"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79990.8200000003, 459531.02 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Zwarte Pad",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "geschatte locatie",
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 79990.82,
+				"Y" : 459531.02,
+				"COUNTER" : "49"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77347.1539999992, 453915.331 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "ABRIKOZENSTRAAT 207",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77347.154,
+				"Y" : 453915.331,
+				"COUNTER" : "50"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77471.2630000003, 453964.629999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "FRAMBOZENSTRAAT 16",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77471.263,
+				"Y" : 453964.63,
+				"COUNTER" : "51"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77481.9690000005, 453329.124000002 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "OKKERNOOTSTRAAT 82",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77481.969,
+				"Y" : 453329.124,
+				"COUNTER" : "52"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 77034.8949999996, 453832.967999998 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "SINAASAPPELSTRAAT 165",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 77034.895,
+				"Y" : 453832.968,
+				"COUNTER" : "53"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 81445.5819999985, 454798.552000001 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Voldersgracht 42",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : 81445.582,
+				"Y" : 454798.552,
+				"COUNTER" : "54"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 80157.4030000009, 455287.91 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "VAN KINSBERGENSTRAAT 5",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 80157.403,
+				"Y" : 455287.91,
+				"COUNTER" : "55"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79319.5709999986, 453632.596000001 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "HARDERWIJKSTRAAT 2",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79319.571,
+				"Y" : 453632.596,
+				"COUNTER" : "56"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79339.9600000009, 453596.261 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "harderwijkstraat 36A",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79339.96,
+				"Y" : 453596.261,
+				"COUNTER" : "57"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 0, 0 ]
+			},
+			"properties" : {
+				"TITEL" : "BIESIEKLETTE",
+				"STRAAT" : "Stellenboschplein",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : "Onbekende locatie",
+				"WEBSITE" : "https://www.biesieklette.nl/stallingen/",
+				"FOTO" : null,
+				"X" : null,
+				"Y" : null,
+				"COUNTER" : "58"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 78774.4189999998, 458063.654199999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : null,
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : null,
+				"Y" : null,
+				"COUNTER" : "59"
+			}
+		}
+	]
+}

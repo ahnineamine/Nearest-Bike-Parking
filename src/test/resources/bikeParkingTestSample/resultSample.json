@@ -1,0 +1,86 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"TITEL": "Buurtstalling Den Haag",
+				"STRAAT": "PRINSEGRACHT 274",
+				"PLAATS": "Den Haag",
+				"LOCATIEOMSCHRIJVING": null,
+				"WEBSITE": null,
+				"FOTO": null,
+				"X": 80493.801,
+				"Y": 454320.184,
+				"COUNTER": "18",
+				"DISTANCE": {
+					"VALUE": 0.377,
+					"UNIT": "KM",
+					"METHODE": "HAVERSINE"
+				},
+				"ORDER": 1
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					80493.800999999,
+					454320.184
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"TITEL": "BIESIEKLETTE",
+				"STRAAT": "Herman Costerstraat 258",
+				"PLAATS": "Den Haag",
+				"LOCATIEOMSCHRIJVING": null,
+				"WEBSITE": "https://www.biesieklette.nl/stallingen/",
+				"FOTO": null,
+				"X": 80247.696,
+				"Y": 453648.62,
+				"COUNTER": "25",
+				"DISTANCE": {
+					"VALUE": 0.621,
+					"UNIT": "KM",
+					"METHODE": "HAVERSINE"
+				},
+				"ORDER": 2
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					80247.6959999986,
+					453648.620000001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"TITEL": "Buurtstalling Den Haag",
+				"STRAAT": "MARNIXSTRAAT 55A",
+				"PLAATS": "Den Haag",
+				"LOCATIEOMSCHRIJVING": null,
+				"WEBSITE": null,
+				"FOTO": null,
+				"X": 79819.82,
+				"Y": 454990.349,
+				"COUNTER": "40",
+				"DISTANCE": {
+					"VALUE": 0.792,
+					"UNIT": "KM",
+					"METHODE": "HAVERSINE"
+				},
+				"ORDER": 3
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					79819.8200000003,
+					454990.348999999
+				]
+			}
+		}
+	]
+}

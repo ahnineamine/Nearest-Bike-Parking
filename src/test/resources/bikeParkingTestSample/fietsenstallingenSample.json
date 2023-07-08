@@ -1,0 +1,47 @@
+{
+	"type" : "FeatureCollection",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:28992"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 79652.9470000006, 458727.410999998 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "BOSSCHESTRAAT 58",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 79652.947,
+				"Y" : 458727.411,
+				"COUNTER" : "1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 83403.7239999995, 455776.719999999 ]
+			},
+			"properties" : {
+				"TITEL" : "Buurtstalling Den Haag",
+				"STRAAT" : "ALTINGSTRAAT 3",
+				"PLAATS" : "Den Haag",
+				"LOCATIEOMSCHRIJVING" : null,
+				"WEBSITE" : null,
+				"FOTO" : null,
+				"X" : 83403.724,
+				"Y" : 455776.72,
+				"COUNTER" : "2"
+			}
+		}
+	]
+}
